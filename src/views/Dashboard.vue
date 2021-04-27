@@ -21,7 +21,7 @@ export default {
 <style>
 .dashboard {
   display: grid;
-  grid-template-columns: 1fr 5fr;
+  grid-template-columns: 1fr 6fr;
   background-color: rgb(14, 180, 103);
   height: 100vh;
   width: 100vw;

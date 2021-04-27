@@ -58,9 +58,14 @@ export default {};
 
 <style scoped>
 .title {
-  color: white;
-  font-size: 24px;
-  margin-top: 50px;
+  color: rgb(27, 27, 27);
+  font-size: 16px;
+  margin-top: 10px;
+  padding: 10px;
+  text-align: left;
+  letter-spacing: -1px;
+  text-transform: uppercase;
+  font-weight: 800;
 }
 
 .menu-items {
@@ -71,7 +76,7 @@ export default {};
 }
 
 .menu-items > * {
-  margin-top: 50px;
+  margin-top: 60px;
 }
 
 .side-btn {
@@ -80,7 +85,7 @@ export default {};
   cursor: pointer;
   font-size: 16px;
   font-weight: 500;
-  color: hsl(0, 0%, 100%);
+  color: rgb(27, 27, 27);
   background-color: transparent;
 }
 
